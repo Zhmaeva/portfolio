@@ -1,4 +1,5 @@
-![photo](https://drive.google.com/file/d/12aPZuj-UAZqH_a11S64ttgJD6mC-lVaa/view?usp=drive_link) ## **Ekaterina Zhmaeva | QA Engineer**  
+![photo](https://github.com/Zhmaeva/portfolio/blob/main/photos/image.png)  
+## **Ekaterina Zhmaeva | QA Engineer**  
 
 *email: ekaterina.eduardovn@gmail.com*  
 *Moscow, Russian Federation*  
