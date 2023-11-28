@@ -1,4 +1,4 @@
-![photo](https://github.com/Zhmaeva/portfolio/blob/main/photos/image.png](https://github.com/Zhmaeva/portfolio/raw/888fa4f7a78cf6bba412b516b6f70c605df8e94d/photos/image.png)  
+![photo](https://github.com/Zhmaeva/portfolio/raw/888fa4f7a78cf6bba412b516b6f70c605df8e94d/photos/image.png)  
 ## **Ekaterina Zhmaeva | QA Engineer**  
 
 *email: ekaterina.eduardovn@gmail.com*  
